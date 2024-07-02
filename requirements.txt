@@ -1,0 +1,12 @@
+scikit_image
+git+https://gitlab.com/m1lhaus/blender-mathutils.git
+tqdm==4.19.9
+pandas
+h5py
+pyquaternion
+pykitti
+tensorboardX
+open3d-python==0.7.0.0
+Pillow
+scikit-image
+sacred==0.7.4

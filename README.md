@@ -87,6 +87,10 @@ model = BalancedDataParallel(16, model, device_ids=[0, 1, 2])
 python train.py
 ```
 
+### Pre-trained models
+
+Download the [pre-trained models](https://pan.baidu.com/s/17Ekxu3q6HBSIU9SrelWlrw?pwd=mssn) and put them in `./checkpoints`.
+
 ## Pubulication
 
 If you find this repository useful, please cite our [`paper`]():

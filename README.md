@@ -8,7 +8,7 @@ Chao Xu, Yadong Wang, Jinying Zhang, Yaohui Zhu, Tianyu Shen\*, Kunfeng Wang*
 
 This paper proposes a LiDAR-camera extrinsic calibration method leveraging multi-modal semantic similarity (MSSNet) from pointcloud and image data. Specifically, the multi-modal semantic information is exploited as input to calculate the similarity between images and point clouds using correlation volume, which is updated with an optical flow estimation module. Then the calibration parameters are regressed using the final updated correlation volume. 
 
-![屏幕截图 2024-06-14 095031](C:\Users\徐超\Pictures\Screenshots\屏幕截图 2024-06-14 095031.png)
+![MSSNet](.\MSSNet.png)
 
 ## Install
 

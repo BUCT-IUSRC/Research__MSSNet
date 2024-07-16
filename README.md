@@ -93,9 +93,7 @@ Download the [pre-trained models](https://pan.baidu.com/s/17Ekxu3q6HBSIU9SrelWlr
 
 ## Pubulication
 
-If you find this repository useful, please cite our [`paper`]():
-
-
+This paper is currently being submitted.
 
 ## Contact Us
 
